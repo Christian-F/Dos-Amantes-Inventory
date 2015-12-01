@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredients>
+    <item name="Tomato Puree #10">
+		<packSize>106</packSize>
+		<onHand></onHand>
+		<container>Can</container>
+		<per36>149.9</per36>
+		<perBatch>29.98</perBatch>
+		<perUnit>0.03</perUnit>
+    </item>
+    <item name="Diced Green Chiles">
+		<packSize>5lbs</packSize>
+		<onHand></onHand>
+		<container>Bag</container>
+		<per36>80</per36>
+		<perBatch>16</perBatch>
+		<perUnit>0.08</perUnit>
+    </item>
+    <item name="Crushed Tomatoes #10">
+		<packSize>106</packSize>
+		<onHand></onHand>
+		<container>Can</container>
+		<per36>80</per36>
+		<perBatch>16</perBatch>
+		<perUnit>0.03</perUnit>
+    </item>
+    <item name="Cornstarch">
+		<packSize>56</packSize>
+		<onHand></onHand>
+		<container>Bag</container>
+		<per36>6.17</per36>
+		<perBatch>1.234</perBatch>
+		<perUnit>0.12</perUnit>
+    </item>
+    <item name="Vinegar">
+		<packSize>16</packSize>
+		<onHand></onHand>
+		<container>Bottle</container>
+		<per36>4.40875</per36>
+		<perBatch>0.88175</perBatch>
+		<perUnit>0.08</perUnit>
+    </item>
+    <item name="Onion Salt">
+		<packSize>176</packSize>
+		<onHand></onHand>
+		<container>Container</container>
+		<per36>4.25</per36>
+		<perBatch>0.85</perBatch>
+		<perUnit>0.29</perUnit>
+    </item>
+    <item name="Sugar">
+		<packSize>64</packSize>
+		<onHand></onHand>
+		<container>Bag</container>
+		<per36>3.35</per36>
+		<perBatch>0.67</perBatch>
+		<perUnit>0.03</perUnit>
+    </item>
+    <item name="Garlic Powder">
+		<packSize>16</packSize>
+		<onHand></onHand>
+		<container>Bag</container>
+		<per36>2.4689</per36>
+		<perBatch>0.49378</perBatch>
+		<perUnit>0.53</perUnit>
+    </item>
+    <item name="Cumin">
+		<packSize>16</packSize>
+		<onHand></onHand>
+		<container>Bag</container>
+		<per36>1.93985</per36>
+		<perBatch>0.38797</perBatch>
+		<perUnit>0.61</perUnit>
+    </item>
+    <item name="Granulated Onion">
+		<packSize>19.5</packSize>
+		<onHand></onHand>
+		<container>Container</container>
+		<per36>0.7054</per36>
+		<perBatch>0.14108</perBatch>
+		<perUnit>0.28</perUnit>
+    </item>
+    <item name="White Pepper">
+		<packSize>18</packSize>
+		<onHand></onHand>
+		<container>Container</container>
+		<per36>0.3527</per36>
+		<perBatch>0.07054</perBatch>
+		<perUnit>1.11</perUnit>
+    </item>
+    <item name="Citric Acid">
+		<packSize>18</packSize>
+		<onHand></onHand>
+		<container>Container</container>
+		<per36>0.581795</per36>
+		<perBatch>0.1163559</perBatch>
+		<perUnit>0.63</perUnit>
+    </item>
+</ingredients>
