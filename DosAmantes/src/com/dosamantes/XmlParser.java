@@ -14,7 +14,7 @@ import javax.xml.stream.events.Attribute;
 import javax.xml.stream.events.EndElement;
 import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
-
+ 
 public class XmlParser {
 	static final String Item = "name";
 	static final String ItemPackSize = "packSize";
@@ -25,7 +25,7 @@ public class XmlParser {
 	static final String UnitCost = "perUnit";
 	
 	@SuppressWarnings("unchecked")
-	public List<Ingredient> readIngredients(String ingredientFile){
+	public static List<Ingredient> readIngredients(String ingredientFile){
 		
 		List<Ingredient> ingredients = new ArrayList<Ingredient>();
 		
@@ -53,6 +53,7 @@ public class XmlParser {
 							Attribute attribute = attributes.next();
 							if(attribute.getName().toString().equals(Item)){
 								ingredient.setItemName(attribute.getValue());
+								System.out.println(ingredient.getItemName());
 							}
 						}
 					}
@@ -112,7 +113,6 @@ public class XmlParser {
 		}
 		
 		return ingredients;
-		
 		
 	}
 	

@@ -13,7 +13,7 @@ public class Ingredient {
 	public String getItemName(){
 		return Item;
 	}
-	
+	 
 	public void setItemName(String name){
 		this.Item = name;
 	}

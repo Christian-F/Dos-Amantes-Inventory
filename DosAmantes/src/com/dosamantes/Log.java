@@ -10,7 +10,7 @@ public class Log {
 	
 	static File log = new File(FileManager.getRootPath()+ "/log.txt");
 	static boolean logExists = log.exists();
-	
+	 
 	public static void createLog(){
 		if(!logExists){
 			try{
